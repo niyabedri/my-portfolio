@@ -1,0 +1,207 @@
+{
+    "main": {
+        "name": "Niya Bedri",
+        "shortname": "Niya",
+        "occupation": "Developer / Programmer / Engineer",
+        "description": "Eat, sleep, code, repeat.",
+        "yearofexperience": "05",
+        "age": "25",
+        "designation": "Software engineer",
+        "image": "/images/photo.jpg",
+        "fullimage": "/images/photo.jpg",
+        "bio": "Hi there! I have been very passionate about computers and programming since my university life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a senior software developer position that can help me to achieve my goal.",
+        "contactmessage": "Get in touch with me to to build any software for your business.!",
+        "email": "niya.bedri44@gmail.com",
+        "phone": "+251 911 08 6262",
+        "mapaddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.6698920746726!2d91.8166201143615!3d22.328320947520915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8b3c659a4fb%3A0xcf4c00425d483eb6!2s12%20Quarter%20Ln%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1631249930628!5m2!1sen!2sbd",
+        "address": {
+            "street": "Addis Ababa District",
+            "country": "Ethiopia",
+            "city": "Addis Ababa"
+        },
+        "quotes1": {
+            "sectiontitle": "My resume",
+            "title": "I Would Love to make your Ideas real",
+            "description": "I love graphic design and photography and have been working on my portfolio since 2016. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+        },
+        "quotes2": {
+            "sectiontitle": "",
+            "title": "I can give your business a new creative start right away! Hire me for your Awesome project",
+            "description": " "
+        },
+        "workabout": {
+            "completedproject": "100",
+            "inprogressproject": "20",
+            "awardrecived": "15",
+            "happyclinet": "100"
+        },
+        "resumedownload": "https://drive.google.com/file/d/1dK6gwe4lUbRy_30r0wTlAB2pweybrTmR/view?usp=drive_link",
+        "social": [{
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/niya-bedri-131790205/",
+                "className": "fa fa-linkedin"
+            },
+           {
+                "name": "github",
+                "url": "https://github.com/niyabedri",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [{
+            "school": "HiLCoE, School of Computer Science and Technology",
+            "degree": "Bachelor's Degree, Computer Science",
+            "graduated": "February 2021",
+            "description": "Graduated with First Class Honours"
+        }],
+        "work": [{
+            "company": "Orbit Health",
+            "title": "Fullstack Developer",
+            "years": "Jan 2021 - March 2023",
+            "description": "Worked on EMR (Electronic medical record) system. Worked from requirement analysis through development to testing."
+        },
+        {
+            "company": "Prestige IT Solutions",
+            "title": "Fullstack Developer",
+            "years": "Jan 2021 - March 2023",
+            "description": "Worked as a backend developer for a mobile application that was built using flutter. The application is a fundraising platform that supports Ethiopia's currency."
+        },
+        {
+            "company": "IO Tech Solutions",
+            "title": "Fullstack Developer",
+            "years": "Jan 2021 - March 2023",
+            "description": "Worked on different projects."
+        },
+        {
+            "company": "Adbox",
+            "title": "Fullstack Developer",
+            "years": "sep 2022 - Oct 2023",
+            "description": "Worked as a fullstack developer."
+        }
+
+
+    ],
+        "skillssectiontitle":"Motivated by the Desire to achieve Success",
+        "skillssectiondescription":"Here are the stacks that I have been working: ",
+        "skills": [{
+                "name": "Php",
+                "level": "90%"
+            },
+            {
+                "name": "Node",
+                "level": "95%"
+            },
+            {
+                "name": "Vue 2, Vue 3",
+                "level": "95%"
+            },
+            {
+                "name": "React",
+                "level": "70%"
+            },
+            {
+                "name": "GraphQL API",
+                "level": "95%"
+            },
+            {
+                "name": "Postgres Database",
+                "level": "95%"
+            },
+            {
+                "name": "Hasura",
+                "level": "70%"
+            },
+            {
+                "name": "Javascript",
+                "level": "70%"
+            },
+            {
+                "name": "Typescript",
+                "level": "70%"
+            },
+            {
+                "name": "C#",
+                "level": "70%"
+            },
+            {
+                "name": "Web Development",
+                "level": "95%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "no":"01",
+                "title": "Erk Maed",
+                "description": "I worked at Erk Maed on Internal System and website"
+            },
+            {
+                "no":"02",
+                "title": "Orbit Health",
+                "description": "Worked on EMR (Electronic medical record) system. Worked from requirement analysis through development to testing."
+            },
+            {
+                "no":"03",
+                "title": "Prestige IT Solutions",
+                "description": "Worked as a backend developer for a mobile application that was built using flutter. The application is a fundraising platform that supports Ethiopia's currency."
+            },
+            {
+                "no":"04",
+                "title": "IO Tech Solutions",
+                "description": "Worked on different projects."
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
+                "clientname": "John wilson",
+                "clientaddress": "Seattle, Washington"
+            },
+            {
+                "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
+                "clientname": "David haris",
+                "clientaddress": "London, England"
+            }
+        ]
+    },
+    "services": {
+        "services": [
+            {
+                "no": "01",
+                "title": "Fullstack Developer"
+            },
+            {
+                "no": "03",
+                "title": "Web App Development"
+            },
+            {
+                "no": "04",
+                "title": "Website Development"
+            }
+            
+        ]
+    },
+    "awwards": {
+        "awwards": [
+            {
+                "title": "Website of the day",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Awards Site Of The Day",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Honorable mention award",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            },
+            {
+                "title": "Designer of the Company",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi reiciendis labore quisquam suscipit qui veritatis. voluptas quia officiis fugit soluta sunt"
+            }
+        ]
+    }
+}

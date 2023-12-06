@@ -1,0 +1,30 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/home/nee/Documents/portfolio/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_4f531992"
+  },
+  {
+    "name": "myself",
+    "path": "/myself",
+    "component": "/home/nee/Documents/portfolio/pages/myself.vue",
+    "chunkName": "pages/myself",
+    "_name": "_e26a359e"
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "component": "/home/nee/Documents/portfolio/pages/projects.vue",
+    "chunkName": "pages/projects",
+    "_name": "_21f8e173"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/nee/Documents/portfolio/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3473e2a9"
+  }
+]
