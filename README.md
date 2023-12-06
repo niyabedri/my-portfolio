@@ -12,10 +12,10 @@ It has Dark mode enabled
 
 You can simply run the project by following process
 ```shell
-$ git clone https://github.com/Baizidmdashadzzaman/protfolio-for-developer-using-nuxt-js.git
+$ git clone https://github.com/niyabedri/my-portfolio.git
 ```
 ```shell
-$ cd protfolio-for-developer-using-nuxt-js
+$ cd my-portfolio
 ```
 ```shell
 $ npm install
@@ -28,21 +28,5 @@ After that you can edit the data.json file located in static/api/data.json
 fill up you infomation and enjoy.
 ## Deploy Your Own
 
-Deploy your own Nuxt.js project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/nuxtjs&template=nuxtjs)
-
-```shell
-upload the project in your github account
-```
-```shell
-create vercel account
-```
-```shell
-create new project linked & your gitgub repository
-```
-```shell
-you are ready to go
-```
 
 
