@@ -36,12 +36,13 @@
             "happyclinet": "100"
         },
         "resumedownload": "https://drive.google.com/file/d/1dK6gwe4lUbRy_30r0wTlAB2pweybrTmR/view?usp=drive_link",
-        "social": [{
+        "social": [
+            {
                 "name": "linkedin",
                 "url": "https://www.linkedin.com/in/niya-bedri-131790205/",
                 "className": "fa fa-linkedin"
             },
-           {
+            {
                 "name": "github",
                 "url": "https://github.com/niyabedri",
                 "className": "fa fa-github"
@@ -50,42 +51,50 @@
     },
     "resume": {
         "skillmessage": "My Programming Language Proficiency",
-        "education": [{
-            "school": "HiLCoE, School of Computer Science and Technology",
-            "degree": "Bachelor's Degree, Computer Science",
-            "graduated": "February 2021",
-            "description": "Graduated with First Class Honours"
-        }],
-        "work": [{
-            "company": "Orbit Health",
-            "title": "Fullstack Developer",
-            "years": "Jan 2021 - March 2023",
-            "description": "Worked on EMR (Electronic medical record) system. Worked from requirement analysis through development to testing."
-        },
-        {
-            "company": "Prestige IT Solutions",
-            "title": "Fullstack Developer",
-            "years": "Jan 2021 - March 2023",
-            "description": "Worked as a backend developer for a mobile application that was built using flutter. The application is a fundraising platform that supports Ethiopia's currency."
-        },
-        {
-            "company": "IO Tech Solutions",
-            "title": "Fullstack Developer",
-            "years": "Jan 2021 - March 2023",
-            "description": "Worked on different projects."
-        },
-        {
-            "company": "Adbox",
-            "title": "Fullstack Developer",
-            "years": "sep 2022 - Oct 2023",
-            "description": "Worked as a fullstack developer."
-        }
-
-
-    ],
-        "skillssectiontitle":"Motivated by the Desire to achieve Success",
-        "skillssectiondescription":"Here are the stacks that I have been working: ",
-        "skills": [{
+        "education": [
+            {
+                "school": "HiLCoE, School of Computer Science and Technology",
+                "degree": "Bachelor's Degree, Computer Science",
+                "graduated": "February 2021",
+                "description": "Graduated with First Class Honours"
+            },
+            {
+                "school": "Lunar International College",
+                "degree": "Masters's Degree, Project Management",
+                "graduated": "Sep 2023",
+                "description": "Graduated with First Class Honours"
+            }
+        ],
+        "work": [
+            {
+                "company": "Orbit Health",
+                "title": "Fullstack Developer",
+                "years": "Jan 2021 - March 2023",
+                "description": "Worked on EMR (Electronic medical record) system. Worked from requirement analysis through development to testing."
+            },
+            {
+                "company": "Prestige IT Solutions",
+                "title": "Fullstack Developer",
+                "years": "Jan 2021 - March 2023",
+                "description": "Worked as a backend developer for a mobile application that was built using flutter. The application is a fundraising platform that supports Ethiopia's currency."
+            },
+            {
+                "company": "IO Tech Solutions",
+                "title": "Fullstack Developer",
+                "years": "Jan 2021 - March 2023",
+                "description": "Worked on different projects."
+            },
+            {
+                "company": "Adbox",
+                "title": "Fullstack Developer",
+                "years": "sep 2022 - Oct 2023",
+                "description": "Worked as a fullstack developer."
+            }
+        ],
+        "skillssectiontitle": "Motivated by the Desire to achieve Success",
+        "skillssectiondescription": "Here are the stacks that I have been working: ",
+        "skills": [
+            {
                 "name": "Php",
                 "level": "90%"
             },
@@ -132,30 +141,32 @@
         ]
     },
     "portfolio": {
-        "projects": [{
-                "no":"01",
+        "projects": [
+            {
+                "no": "01",
                 "title": "Erk Maed",
                 "description": "I worked at Erk Maed on Internal System and website"
             },
             {
-                "no":"02",
+                "no": "02",
                 "title": "Orbit Health",
                 "description": "Worked on EMR (Electronic medical record) system. Worked from requirement analysis through development to testing."
             },
             {
-                "no":"03",
+                "no": "03",
                 "title": "Prestige IT Solutions",
                 "description": "Worked as a backend developer for a mobile application that was built using flutter. The application is a fundraising platform that supports Ethiopia's currency."
             },
             {
-                "no":"04",
+                "no": "04",
                 "title": "IO Tech Solutions",
                 "description": "Worked on different projects."
             }
         ]
     },
     "testimonials": {
-        "testimonials": [{
+        "testimonials": [
+            {
                 "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
                 "clientname": "John wilson",
                 "clientaddress": "Seattle, Washington"
@@ -181,7 +192,6 @@
                 "no": "04",
                 "title": "Website Development"
             }
-            
         ]
     },
     "awwards": {
